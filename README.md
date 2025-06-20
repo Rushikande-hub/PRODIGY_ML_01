@@ -36,4 +36,4 @@ The objective is to build a **Linear Regression** model that predicts the **pric
 - Data visualization
 
 ## 📁 Output Notebook
-Notebook file: 'PRODIGY_DS_01_HousePricePrediction (1).ipynb'
+Notebook file: 'PRODIGY_ML_01_HousePricePrediction .ipynb'
